@@ -15,5 +15,7 @@ This React component shows a running workout using JSON data and Tailwind CSS fo
 ## Usage
 
 1. Clone the repo
-2. Install dependencies using your preferred package manager (npm, yarn, pnpm, or bun). For example, with bun run: bun install
-3. After installing dependencies, start the development server. For bun, run: bun run dev
+2. Install dependencies using your preferred package manager (npm, yarn, pnpm, or bun). For example, with bun run: 
+```bun install # or yarn install or pnpm install or npm install```
+3. After installing dependencies, start the development server. For bun, run: 
+```bun run dev```
